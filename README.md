@@ -6,3 +6,6 @@ Many links about security (tools, articles, etc...)
 
 ## Nmap
 [discover idle zombies server](http://insecurety.net/?p=51)
+
+## IP Ranges
+[amazone](https://ip-ranges.amazonaws.com/ip-ranges.json)
