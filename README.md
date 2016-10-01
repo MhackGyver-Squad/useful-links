@@ -10,3 +10,7 @@ Many links about security (tools, articles, etc...)
 
 ## IP Ranges
 * [amazone](https://ip-ranges.amazonaws.com/ip-ranges.json)
+
+## Javascript
+### Obfuscator
+* [online 1](http://www.danstools.com/javascript-obfuscate/index.php)
