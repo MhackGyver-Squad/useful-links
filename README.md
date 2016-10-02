@@ -15,6 +15,10 @@ Many links about security (tools, articles, etc...)
 #### Obfuscator
 * [online 1](http://www.danstools.com/javascript-obfuscate/index.php)
 
+## PHP
+#### Wordpress
+* [Hack Wordpress](https://www.dailysecurity.fr/comment-pirater-un-wordpress/#more-284)
+
 ## Exploit Snippets
 * [CSRF Token ByPass (html/javascript)](https://gist.github.com/4383/1c1c5111871cd5c4b72a71cd0af3ea3e)
 * [IRC Bot (Python)](https://gist.github.com/4383/9e4672749f19a2f48f6d18de599a5024)
