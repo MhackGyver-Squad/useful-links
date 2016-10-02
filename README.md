@@ -16,5 +16,5 @@ Many links about security (tools, articles, etc...)
 * [online 1](http://www.danstools.com/javascript-obfuscate/index.php)
 
 ## Exploit Snippets
-* [CSRF ByPass (html/javascript)](https://gist.github.com/4383/1c1c5111871cd5c4b72a71cd0af3ea3e)
+* [CSRF Token ByPass (html/javascript)](https://gist.github.com/4383/1c1c5111871cd5c4b72a71cd0af3ea3e)
 * [IRC Bot (Python)](https://gist.github.com/4383/9e4672749f19a2f48f6d18de599a5024)
