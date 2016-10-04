@@ -29,3 +29,7 @@ Many links about security (tools, articles, etc...)
 
 ## Blog
 * [Jerry Gamblin (creator of mirai)](http://jerrygamblin.com/)
+
+## Prepare a pentest camp (challenge)
+* [technical part](http://jerrygamblin.com/2016/07/15/6-technical-things-to-do-before-security-summer-camp/)
+* [network part](http://jerrygamblin.com/2016/07/18/6-networking-things-to-do-before-security-summer-camp/)
