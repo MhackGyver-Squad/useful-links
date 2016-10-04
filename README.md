@@ -38,6 +38,7 @@ Many links about security (tools, articles, etc...)
 ## Prepare a pentest camp (challenge)
 * [technical part](http://jerrygamblin.com/2016/07/15/6-technical-things-to-do-before-security-summer-camp/)
 * [network part](http://jerrygamblin.com/2016/07/18/6-networking-things-to-do-before-security-summer-camp/)
+* [checklist](https://gist.github.com/4383/570ca024e140d4a2b5a7be4ca664594e)
 
 ## Protect yourself !
 * [Most VPN Services are Terrible](https://gist.github.com/kennwhite/1f3bc4d889b02b35d8aa)
