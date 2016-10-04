@@ -22,3 +22,6 @@ Many links about security (tools, articles, etc...)
 ## Exploit Snippets
 * [CSRF Token ByPass (html/javascript)](https://gist.github.com/4383/1c1c5111871cd5c4b72a71cd0af3ea3e)
 * [IRC Bot (Python)](https://gist.github.com/4383/9e4672749f19a2f48f6d18de599a5024)
+
+## Blog
+* [Jerry Gamblin (creator of mirai)](http://jerrygamblin.com/)
