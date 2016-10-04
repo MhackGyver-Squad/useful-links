@@ -23,6 +23,10 @@ Many links about security (tools, articles, etc...)
 #### Wordpress
 * [Hack Wordpress](https://www.dailysecurity.fr/comment-pirater-un-wordpress/#more-284)
 
+## Wifi
+* [man in the middle with pineapple](http://blog.iweb.com/fr/2013/09/prenez-garde-pineapple/13717.html)
+* [setup gl-ar into pineapple](http://jerrygamblin.com/2016/04/11/turning-a-25-gl-ar150-into-a-100-wifipineapple/)
+
 ## Exploit Snippets
 * [CSRF Token ByPass (html/javascript)](https://gist.github.com/4383/1c1c5111871cd5c4b72a71cd0af3ea3e)
 * [IRC Bot (Python)](https://gist.github.com/4383/9e4672749f19a2f48f6d18de599a5024)
