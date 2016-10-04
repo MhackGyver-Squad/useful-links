@@ -28,6 +28,10 @@ Many links about security (tools, articles, etc...)
 * [setup gl-ar into pineapple](http://jerrygamblin.com/2016/04/11/turning-a-25-gl-ar150-into-a-100-wifipineapple/)
 * [gl-ar150](http://www.gl-inet.com/ar150/)
 
+## RFID
+* [Proxmark3](http://www.elechouse.com/elechouse/index.php?main_page=product_info&cPath=90_93&products_id=2264)
+* [chameleon mini](https://www.kickstarter.com/projects/1980078555/chameleonmini-a-versatile-nfc-card-emulator-and-mo)
+
 ## Exploit Snippets
 * [CSRF Token ByPass (html/javascript)](https://gist.github.com/4383/1c1c5111871cd5c4b72a71cd0af3ea3e)
 * [IRC Bot (Python)](https://gist.github.com/4383/9e4672749f19a2f48f6d18de599a5024)
