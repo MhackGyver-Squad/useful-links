@@ -34,6 +34,9 @@ Many links about security (tools, articles, etc...)
 * [technical part](http://jerrygamblin.com/2016/07/15/6-technical-things-to-do-before-security-summer-camp/)
 * [network part](http://jerrygamblin.com/2016/07/18/6-networking-things-to-do-before-security-summer-camp/)
 
+## Protect yourself !
+* [Most VPN Services are Terrible](https://gist.github.com/kennwhite/1f3bc4d889b02b35d8aa)
+
 ## Setup server
 * [my first 10 minutes on a server primer](http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
 * [my first 10 seconds on a server](http://jerrygamblin.com/2016/07/13/my-first-10-seconds-on-a-server/)
